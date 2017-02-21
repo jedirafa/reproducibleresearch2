@@ -2,7 +2,8 @@
 title: "Reproducible Research - Course Project 1"
 author: "Rafael Godinho"
 date: "19 de fevereiro de 2017"
-output: html_document
+output: md_document
+variant: markdown_github
 ---
 
 ### About
